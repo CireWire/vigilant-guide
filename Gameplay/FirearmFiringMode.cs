@@ -17,10 +17,7 @@
  
  */
 
-// Unity C# script that allows a firearm to transition 
-// between full auto and burst fire firing modes. 
-// This script assumes you have already set up the necessary input bindings 
-// for switching between modes.
+// This script assumes you have already set up the necessary input bindings for switching between modes.
 
 using UnityEngine;
 using System.Collections;
