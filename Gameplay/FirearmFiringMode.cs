@@ -1,3 +1,22 @@
+/*
+ Firearm Firing Mode Transition Script
+ Version: 1.0
+ Unity: 2018.3 or later
+ 
+ Description:
+ This script allows a firearm in a game to transition between full auto and burst fire firing modes.
+ It provides a customizable burst fire functionality with adjustable burst count and delay between shots.
+ 
+ Usage:
+ 1. Attach this script to the GameObject representing your firearm in the Unity Editor.
+ 2. Set up the appropriate input bindings for firing in the Unity Input Manager.
+ 3. Customize the Fire() method to implement the actual firing logic for your firearm.
+ 
+ Author: CireWire
+ GitHub: https://github.com/CireWire
+ 
+ */
+
 // Unity C# script that allows a firearm to transition 
 // between full auto and burst fire firing modes. 
 // This script assumes you have already set up the necessary input bindings 
