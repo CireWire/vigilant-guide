@@ -15,7 +15,7 @@ To get started with this repository, you can either clone the entire repository 
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/unity-csharp-scripts.git
+git clone https://github.com/CireWire/vigilant-guide.git
 ```
 
 2. Browse the repository and navigate to the script you want to use.
